@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter written by the Prince Elector of Brandenbourgh unto the King of France, declaring the reasons inducing his Electoral Highnes to take up arms against the King of Sweden. Translated out of the Latine coppies.</title>
+            <author>Friedrich Wilhelm, Elector of Brandenburg, 1620-1688.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84887</idno>
+            <idno type="STC">Wing F2110</idno>
+            <idno type="STC">Thomason E965_2</idno>
+            <idno type="STC">ESTC R207663</idno>
+            <idno type="EEBO-CITATION">99866701</idno>
+            <idno type="PROQUEST">99866701</idno>
+            <idno type="VID">168535</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84887)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168535)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 144:E965[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter written by the Prince Elector of Brandenbourgh unto the King of France, declaring the reasons inducing his Electoral Highnes to take up arms against the King of Sweden. Translated out of the Latine coppies.</title>
+                  <author>Friedrich Wilhelm, Elector of Brandenburg, 1620-1688.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J.C. for John Crooke, at the sign of the Ship, in St. Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan: 10th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dano-Swedish Wars, 1657-1660 --  Early works to 1800.</term>
+               <term>Prussia (Germany) --  History --  Frederick William, the Great Elector, 1640-1688 --  Sources --  Early works to 1800.</term>
+               <term>Prussia (Germany) --  Foreign relations --  Sweden --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168535:1" rendition="simple:additions"/>
+            <p>A LETTER Written by the PRINCE ELECTOR OF BRANDENBOURGH Unto the KING OF FRANCE, DECLARING The Reaſons inducing his ELECTORAL HIGHNES to take up Arms againſt The KING of SWEDEN.</p>
+            <p>Tranſlated out of the Latine Coppies.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. C.</hi> for <hi>John Crooke,</hi> at the Signe of the Ship, in St. <hi>Pauls</hi> Church-yard. 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:168535:2"/>
+            <pb n="1" facs="tcp:168535:2"/>
+            <head>A LETTER VVritten by the PRINCE ELECTOR of BRANDENBURGH, Unto the King of FRANCE: Declaring the Reaſons inducing his Electoral High<g ref="char:EOLhyphen"/>neſs to take up Arms againſt the King of <hi>Sweden.</hi>
+            </head>
+            <head type="sub">Tranſlated out of the Latine Coppie.</head>
+            <opener>
+               <salute>Moſt Serene and Potent King, our Lord Couſen, and moſt honoured Kinſman.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T cannot chooſe but be known unto your <hi>Majeſtie,</hi> as chief <hi>Mediator,</hi> what labour and pains hath been im<g ref="char:EOLhyphen"/>ployed to compaſs the <hi>Peace and Friendſhip,</hi> betwixt the Kings of <hi>Swed<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> and <hi>Denmark,</hi> and to beget a repoſe and Tranquility in the <hi>Provinces</hi> of <hi>Denmark,</hi> and thoſe other his <hi>Territories</hi> which are ſituated in the Roman Empire. So likewiſe the other Mediators, as well as your <hi>Majestie,</hi> and e<g ref="char:EOLhyphen"/>very body elſe, did conceive, That by the ſaid <hi>Peace,</hi> the <hi>King and Kingdome of Sweden,</hi> were ſufficiently provided for: whoſe Power was not onely thereby greatly augmented, but <hi>Denmark</hi> was there<g ref="char:EOLhyphen"/>by ſo ſtreightned, and bound up, as that none, no not the <hi>Swedes,</hi> needed to have dreaded the attempts of a <hi>Kingdome,</hi> which was in a manner Rent aſunder, and to perpetuity blocked up within it ſelf: Eſpecially when as the <hi>King</hi> of <hi>Denmark,</hi> had entirely fulfilled the
+<pb n="2" facs="tcp:168535:3"/>Conditions which were agreed on; though to his <hi>own,</hi> his King<g ref="char:EOLhyphen"/>domes, and his <hi>Succeſſors</hi> great <hi>Prejudice;</hi> And moreover (by way of <hi>Conſtraint</hi>) did grant unto the Swedes ſeverall other moſt conſi<g ref="char:EOLhyphen"/>derable things, according to their own good <hi>Likeings,</hi> and in con<g ref="char:EOLhyphen"/>formity to their <hi>preſcriptions;</hi> relying on the hopes, that the <hi>Publike Faith</hi> given by the Swedes, confirmed by ſuch ſufficient <hi>Securityes,</hi> and by the <hi>Religious promiſes of a King, and a Chriſtian,</hi> would have been performed.</p>
+            <p>But even as many others, ſo alſo this good <hi>King,</hi> and his people were <hi>ſufferers,</hi> during the Swediſh Publike Faith and Peace; For as they have often, and yet do complain, the Swediſh Forces op<g ref="char:EOLhyphen"/>preſſed them as much if not more, both in <hi>Denmark and Holſtein,</hi> ſince the War was appeaſed, as during the greateſt Violence of the ſame. And as if they heeded not at all the <hi>breach thereof,</hi> they <hi>neither obſerved Peace, nor agreement:</hi> although it could hardly have been immagined that the <hi>Swediſh Impiety</hi> would have tranſported them to what they have done; and whereat doubtleſſe both your <hi>Majeſtie,</hi> and all <hi>Chriſtian Potentates,</hi> as well as our ſelves, will be amazed.</p>
+            <p>Since it hath been reported by the King of <hi>Denmark's Miniſters;</hi> That by an unheard of example, amongſt <hi>Chriſtians,</hi> there was a Con<g ref="char:EOLhyphen"/>ſpiracy hatch't againſt the <hi>moſt Serene King of Denmark, his Children, Kingdomes, Provinces,</hi> and even againſt thoſe <hi>of his Territores,</hi> which are ſittuated in the <hi>Roman Empire;</hi> as alſo againſt the <hi>Liberty and Lives,</hi> and Fortunes, of his Innocent <hi>Subjects,</hi> who being in a <hi>peace<g ref="char:EOLhyphen"/>able</hi> and quiet manner of living, not apprehending any ſuch matter, ſhould under the Pretence of Friendſhip and Brotherly love, have bin all put to the Sword: or excluding the <hi>King &amp; his poſterity,</hi> out of his <hi>Kingdom and Provinces,</hi> &amp; out of his territoryes ſituated in the Roman Empire, to carry him and his progenie away into <hi>Capti<g ref="char:EOLhyphen"/>vitye,</hi> and to have reduced his ſubjects under a perpetuall ſervitude; Contrary to the late peace concluded on, and performed by the <hi>King of Denmark;</hi> Contrary to the Publike Faith given: Contrary to the <hi>Honour and Reputation</hi> of the moſt powerfull <hi>Mediators:</hi> and finally contrary to all <hi>Laws</hi> both <hi>Divine, and Humane;</hi> And
+<pb n="3" facs="tcp:168535:3"/>that on the ſame day when as this <hi>Conſpiracy</hi> brake forth unex<g ref="char:EOLhyphen"/>pectedly, The <hi>King of Sweden</hi> himſelf did in a <hi>Hoſtile</hi> way, not only fall into the <hi>Iſland of Sealand,</hi> and aſſailed the <hi>King of Denmark</hi> in <hi>Coppenhaghen,</hi> his Chief <hi>Cittye,</hi> and place of Reſidence; But by his hoſtile Armed Forces, did invade and aſſault the provinces of the <hi>Roman Empire,</hi> which are compriſed in the <hi>Weſtphalian treaty of Peace,</hi> Contrary unto the ſame, and contrary to the laſt Peace between Sweden and Denmark, Continuing to Exerciſe the ſame <hi>Hoſtilities</hi> and far greater, and thereby to infringe the Publike Peace.</p>
+            <p>Which pernitious change of affaires, when we maturely conſidered, and alſo with anxiety Pondered, by what meanes the Publike, and our own ſecurity might be beſt Provided for, during this ſo great a breach of <hi>the Publike Faith.</hi> We en<g ref="char:EOLhyphen"/>countred with ſo many and weighty Conſiderations, as we thereby clerely perceived, that moſt eminent and ſuddain enſuing dangers threatned both our Neighbours, and our ſelves, unleſſe they were timely prevented, by ſerious Conſultations, and that by the Almighties aſſiſtance, that ambition were bound, which till this preſent, had freely and unhindered, uſurped and dominered o<g ref="char:EOLhyphen"/>ver it's <hi>Neighbours-heads, and Fortunes,</hi> as it's ſelf pleaſed: And that in the firſt place, the <hi>Kingdome of Denmark</hi> might be freed from thoſe unjuſt oppreſſions, ſo that at length, peace, and quietneſſe, might be reſtored unto it, and to it's Neighbours.</p>
+            <p>And whereas till this preſent time, thoſe endeavors which have been uſed with the <hi>King of Sweden,</hi> towards the <hi>Mediating of a peace,</hi> were ſo little regarded, although urged and promoted by all poſible induſtry, and means, as that they have allwaies proved fruitleſſe, but eſpecially when as he ſeemed to perſwade others to peace. Beſides which he hath moſt unworthily, and undeſervedly Threatned us in a <hi>Hoſtile way:</hi> And hath now alſo infringed the <hi>Peace</hi> with <hi>Den<g ref="char:EOLhyphen"/>mark,</hi> which was but lately ſo religiouſly, and ſolemly concluded; Inſomuch as that there being no more hopes left for an <hi>agree<g ref="char:EOLhyphen"/>ment,</hi> and an upright <hi>Peace.</hi> We could therefore no longer de<g ref="char:EOLhyphen"/>ferr that whereunto we are obliged, both to the Common, and our own cauſe, unleſſe we would render our ſelves acceſſory, that
+<pb n="4" facs="tcp:168535:4"/>our Neighbours being overcome, and ſubdued, our ſelves might alſo deſervedly be overrun.</p>
+            <p>And therefore we have been conſtrained to put our ſelves into a poſture, and Equipage, towards the Compaſſing of no leſſe glori<g ref="char:EOLhyphen"/>ous, and righteous atchievements, according to the Laws and Di<g ref="char:EOLhyphen"/>ctates of God, and of all Nations.</p>
+            <p>And whereas <hi>your Majeſties honour,</hi> and <hi>Kingly dignity,</hi> is alſo highly engaged, to cauſe thoſe things to be <hi>Religiouſly obſerved and inviolably performed, which as it were</hi> upon our ſuretyſhip were Publikly concluded, and agreeded on; And that betwixt your <hi>Ma<g ref="char:EOLhyphen"/>jeſtie</hi> and our <hi>ſelf,</hi> there hath been hetherto an entire and upright Friendſhip maintained: that we are equally engaged to each other by the alliance betwixt us; We counted it a part of our Duty, Sum<g ref="char:EOLhyphen"/>marily, to declare unto your Majeſtie, as far as the bounds of an E<g ref="char:EOLhyphen"/>piſtle will permit us, the reaſons which have induced us to under<g ref="char:EOLhyphen"/>take this defenſive Expedition.</p>
+            <p>Becauſe we were deſerted in <hi>Poruſſia and Poland,</hi> by the <hi>King of Sweden,</hi> contrary to the agreements, engagements, and reall pro<g ref="char:EOLhyphen"/>miſes, and left to the diſcretion of our then enemies, as all the world and your <hi>Majestie</hi> doth know: notwithſtanding which, we perſiſted in our Friendly affection, continued and obſerved the Peace hindered Enmityes, urged and promoted the Treatyes of peace, which Poland proffered on reaſonable conditions, and finally, did ſend our Am<g ref="char:EOLhyphen"/>baſſadors to procure, and ſettle peace, but all in Vaine.</p>
+            <p>Becauſe our Ambaſſadors, were indeed well received in the <hi>Kings Name;</hi> But to our <hi>diſgrace,</hi> were treated withall in a new and un<g ref="char:EOLhyphen"/>heard of Manner, were <hi>refuſed audience,</hi> and without cauſe given or ſhown (and therefore unjuſtly) they <hi>Proclaimed, and declared us en<g ref="char:EOLhyphen"/>nemies.</hi>
+            </p>
+            <p>Becauſe the <hi>King of Sweden,</hi> had made a <hi>Peace</hi> with the <hi>King of Denmark;</hi> Had received the <hi>ſatisfaction</hi> which was agreed on, ap<g ref="char:EOLhyphen"/>propriated unto himſelf the <hi>Titles of the Provinces</hi> which he had ſo ac<g ref="char:EOLhyphen"/>quired, <hi>Injoyed, and made uſe of them,</hi> and did <hi>Publikely profeſſe himſelf to be his Friend, and allye;</hi> and though he <hi>retained the ſatisfaction,</hi> yet he <hi>performed not the agreements,</hi> and having <hi>framed a Conſpiracy,</hi> he <hi>Broek
+<pb n="5" facs="tcp:168535:4"/>the ſaid Peace,</hi> and beyond all expectation, eſpecially, under the pretence of Friendſhip (whereas they dream't of no ſuch thing) he cauſed them to be kild, and led away Captives.</p>
+            <p>Whereas therefore the <hi>Common tye of Society, and Christianity</hi> doth oblige and conſtrain all and every one, towards the <hi>aſſisting, re<g ref="char:EOLhyphen"/>leiving, and defending,</hi> of the <hi>unjuſtly oppreſſed,</hi> not doubting but this ſo hainous <hi>Premeditated a conſpiracy, will move all good Kings &amp; Princes:</hi> but eſpecially <hi>your Majestie;</hi> ſo likewiſe have we <hi>ſeveral others reaſons, motives inducing</hi> and enforcing us, to the preſent undertaking.</p>
+            <p>For beſides the conſtant &amp; ſincere, reall <hi>friendſhip betwixt the King of Denmark and our</hi> Electorall houſe, &amp; that both fami<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies are allyed to each other by a ſtraihter tye of <hi>Conſanguinity,</hi> ſo likewiſe both the <hi>King of Denmark</hi> &amp; the <hi>ſtates Provintiall</hi> of the <hi>Territories of Holſtein,</hi> have in this their extremity, &amp; unjuſt oppreſſion, required &amp; deman<g ref="char:EOLhyphen"/>ded of us, that <hi>lawfull defenſive help,</hi> which they might juſtly expect.</p>
+            <p>Moreover as concerning <hi>Holſtein,</hi> the <hi>Weſtphalian Peace of the Em<g ref="char:EOLhyphen"/>pire, and the other Germain ſtatutes, and decrees, do command us to be in a readineſs whether we be called upon or no,</hi> Contrary whereunto <hi>Holſtein</hi> being a <hi>Province of the Empire,</hi> is troubled, oppreſſed waſted and aſ<g ref="char:EOLhyphen"/>ſayled, by an unjuſt and premeditated power and force.</p>
+            <p>Finally, the ſucceſſion of the beſt part of the ſaid <hi>Territories,</hi> be<g ref="char:EOLhyphen"/>ing <hi>deſigned</hi> for, and acquired by our Predeceſſors, and our ſelves, and to be left to our ſucceſſors, which if we ſhould wilfully permit to be alienated, and cut off from our ſelves, or from the <hi>Roman Em<g ref="char:EOLhyphen"/>pire,</hi> (of which we are not the <hi>leaſt member</hi>) and ſhould not opoſe all our ſtrength, and might againſt the ſame; We ſhould greatly fail in what we owe to our ſelves, and to our Poſterity, and might be ac<g ref="char:EOLhyphen"/>cuſed by the <hi>Roman Empire,</hi> to have neglected our duties, nor ſhould we perform thoſe things which behoove an <hi>Elector &amp; a Prince of Ger<g ref="char:EOLhyphen"/>many,</hi> in the behalf of his Country.</p>
+            <p>
+               <hi rend="margQuotes">Therefore, ſince there is no hopes left, ſave in the taking up of arms, we have prepared a defenſive force againſt him, who wilfully hath declared himſelf to be our Enemy: who only waits an occaſion to over-run us, and our Provinces: who hath religi<g ref="char:EOLhyphen"/>ouſly entred upon Treatyes and Agreements, but hath deſerted
+<pb n="6" facs="tcp:168535:5"/>his Allyes and Abetters, againſt all equity, and hath expoſed them to the mercy of their Enemies, who ſolemnly made a peace, and reaped great benefit thereby; but retaining the profits thereof, moſt raſhly brake the ſame again: who moſt unjuſtly oppreſſeth his Neighbouring Kings, and Princes: who engaged his Publick Faith, but as publickly infringed the ſame again; who by no means deſires peace, who is an Incendiary, and Fomenter of all Wars, and Troubles among Chriſtians: and who therefore de<g ref="char:EOLhyphen"/>ſerves the wrath and curſe of Chriſtendom.</hi>
+            </p>
+            <p>As therefore theſe forces are raiſed by us, on a juſt and legal cauſe, not intending ſo much as to move an Arm, or a Foot, to in<g ref="char:EOLhyphen"/>trench upon the Rights of others; But chiefly, to relieve thoſe who are unjuſtly oppreſſed, to reſtore the diſturbed and infringed Peace and Tranquility, unto its former ſplendor again, and thereby to in<g ref="char:EOLhyphen"/>duce the King of <hi>Sweden,</hi> the ſooner to haſten and promote the ſame. So we do moſt aſſuredly and earneſtly hope and believe, that by the Almightyes aſſiſtance, and the piety, love, faith, and juſtice of the cauſe, as alſo by the aſſiſtance of all Chriſtian Kings, Princes, and Common-wealths, but eſpecially by your Majeſties (who by a ſuc<g ref="char:EOLhyphen"/>ceſsive and particular due beareth the Title of the moſt <hi>Chriſtian and Equitable King</hi>) this deſign will be ſeconded: remaining alſo con<g ref="char:EOLhyphen"/>fident that your Majeſty will joyn with us herein; that all the Mer<g ref="char:EOLhyphen"/>chants, and Negotiants, throughout the whole world, may not, by the Swedes, attaining to the abſolute Dominion of the <hi>Baltick</hi> Seas, be made Tributaryes, and enforced to pay Taxes, &amp; Impoſitions, unto them to all perpetuity. To the great prejudice, and damage of all other Kingdomes.</p>
+            <p>Herewith we recommend your Majeſty to the Almighty's Pro<g ref="char:EOLhyphen"/>tection, wiſhing you all happineſs and proſperity in your underta<g ref="char:EOLhyphen"/>kings.</p>
+            <closer>
+               <dateline>Given in our Caſtle at <hi>Collen on the Spree,</hi> on <date>the ſeventeenth day of <hi>September,</hi> 1658.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
